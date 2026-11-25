@@ -1,7 +1,6 @@
 # Supplemental materials
 
 **A Bi-Level Multiagent Model of Water Allocation Policies and Urban Green Infrastructure Investment**  
-Mengxiang Zhang and Ting Fong May Chui, Department of Civil Engineering, The University of Hong Kong
 
 [Download the supplemental materials (PDF)](supplemental_material_asce.pdf)
 
